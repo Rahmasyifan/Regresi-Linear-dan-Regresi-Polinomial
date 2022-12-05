@@ -1,1 +1,3 @@
 # Regresi-Linear-dan-Regresi-Polinomial
+Regresi linear adalah teknik analisis data yang memprediksi nilai data yang tidak diketahui dengan menggunakan nilai data lain yang terkait dan diketahui. Secara matematis memodelkan variabel yang tidak diketahui atau tergantung dan variabel yang dikenal atau independen sebagai persamaan linier.
+Regresi polinomial merupakan regresi linier berganda yang dibentuk dengan menjumlahkan pengaruh variabel prediktor (X) yang dipangkatkan secara meningkat sampai orde tertentu. Model regresi polinomial, struktur analisisnya sama dengan model regresi linier berganda.
